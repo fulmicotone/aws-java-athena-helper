@@ -1,4 +1,4 @@
-**SIMPLE AN AWS ATHENA SDK JAVA API**
+**AWS ATHENA SDK JAVA API**
 
             MyAthena.Builder.standard(ATHENA_DEFAULT_DATABASE,ATHENA_OUTPUT_BUCKET)
          .build()

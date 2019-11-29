@@ -18,3 +18,5 @@
 Right now is only a simply way to makes query to Athena through amazon sdk
 every improvement is welcome
 thanks         
+
+[![](https://jitpack.io/v/fulmicotone/aws-java-athena-helper.svg)](https://jitpack.io/#fulmicotone/aws-java-athena-helper)
